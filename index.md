@@ -14,17 +14,11 @@ It is a project of State Key Laboratory of Computer Science, Institute of Softwa
 
 z3_plus_plus@outlook.com
 ## People
-[Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
-
-[Bohan Li](https://douglaslee001.github.io/)
-
-Jinkun Lin
-
-Zhonghan Wang
-
-[Bohua zhan](https://lcs.ios.ac.cn/~bzhan/)
-
-[Xindi Zhang](https://dezhangxd.github.io/)
-
+[Shaowei Cai](http://lcs.ios.ac.cn/~caisw/),
+[Bohan Li](https://douglaslee001.github.io/),
+Jinkun Lin,
+Zhonghan Wang,
+[Bohua zhan](https://lcs.ios.ac.cn/~bzhan/),
+[Xindi Zhang](https://dezhangxd.github.io/),
 Mengyu Zhao
 
