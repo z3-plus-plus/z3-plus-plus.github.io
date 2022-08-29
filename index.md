@@ -2,7 +2,7 @@
 
 ## Overview
 
-Z3++ is a derived SMT solver based on [Z3](https://github.com/Z3Prover/z3). It participates in the SMT-COMP 2022, and supports the following logics:
+Z3++ is a derived SMT solver based on [Z3](https://github.com/Z3Prover/z3). It participates in the SMT-COMP 2022, and significantly improves Z3 on the following logics:
 
 QF_IDL, QF_LIA, QF_BV, QF_NIA and QF_NRA
 
@@ -14,7 +14,10 @@ It is a project mainly developed in State Key Laboratory of Computer Science, In
 
 z3_plus_plus@outlook.com
 ## People
+### Leader:
 [Shaowei Cai](http://lcs.ios.ac.cn/~caisw/),
+
+### Team Members:
 [Bohan Li](https://douglaslee001.github.io/),
 Jinkun Lin (SeesMaas Inc.),
 Zhonghan Wang,
