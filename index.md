@@ -15,13 +15,18 @@ It is a project mainly developed in State Key Laboratory of Computer Science, In
 z3_plus_plus@outlook.com
 ## People
 ### Leader:
-[Shaowei Cai](http://lcs.ios.ac.cn/~caisw/),
+[Shaowei Cai](http://lcs.ios.ac.cn/~caisw/).
 
 ### Team Members:
 [Bohan Li](https://douglaslee001.github.io/),
+
 Jinkun Lin (SeesMaas Inc.),
+
 Zhonghan Wang,
+
 [Bohua Zhan](https://lcs.ios.ac.cn/~bzhan/),
+
 [Xindi Zhang](https://dezhangxd.github.io/),
-Mengyu Zhao
+
+Mengyu Zhao.
 
