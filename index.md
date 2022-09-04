@@ -15,7 +15,7 @@ It is a project mainly developed in State Key Laboratory of Computer Science, In
 z3_plus_plus@outlook.com
 
 ## Awards
-Z3++ won the gold medals for Biggest Lead Model Validation and Largest Contribution Model Validation at the [FLoC Olympic Games](https://smt-comp.github.io/2022/slides.html).
+At the [FLoC Olympic Games](https://smt-comp.github.io/2022/slides.html), Z3++ won 2 gold medals (6 in total)  for Biggest Lead Model Validation and Largest Contribution Model Validation.
 ## People
 ### Leader:
 [Shaowei Cai](http://lcs.ios.ac.cn/~caisw/).
