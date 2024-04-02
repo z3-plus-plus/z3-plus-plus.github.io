@@ -1,0 +1,99 @@
+total 1952184
+drwxr-xr-x 47 jiafq lcs       4096 May 22 18:48 ./
+drwxr-xr-x 14 root  root         0 May 23 14:59 ../
+drwxrwxr-x  2 jiafq lcs       4096 Jan 16  2022 .InstallAnywhere/
+-rw-------  1 jiafq lcs       2226 May 22 14:58 .Xauthority
+drwxr-xr-x  4 jiafq lcs       4096 Nov 24  2021 .astropy/
+-rw-------  1 jiafq lcs      39471 May 22 22:20 .bash_history
+-rw-r--r--  1 jiafq lcs        220 Oct 12  2021 .bash_logout
+-rw-r--r--  1 jiafq lcs       4977 Feb 27 16:37 .bashrc
+-rw-r--r--  1 jiafq lcs       4307 Nov 25  2021 .bashrc_bk
+drwx------  8 jiafq lcs       4096 Mar 28 14:46 .cache/
+drwxr-xr-x  3 jiafq lcs       4096 Oct 18  2021 .cmake/
+-rwxrwxrwx  1 jiafq lcs       4087 Apr 11  2022 .com.zerog.registry.xml*
+drwxr-xr-x  2 jiafq lcs       4096 Nov 22  2021 .conda/
+-rw-r--r--  1 jiafq lcs         50 Oct  7  2022 .condarc
+drwx------  6 jiafq lcs       4096 Oct 11  2022 .config/
+drwxr-xr-x  3 jiafq lcs       4096 Feb 24 16:23 .dotnet/
+-rwxr-xr-x  1 jiafq lcs        119 May  2  2022 .flexlmrc*
+-rw-r--r--  1 jiafq lcs         87 May  9 16:26 .gdbinit
+drwxr-xr-x  3 jiafq lcs       4096 Apr 11  2022 .ibm_cplex_studio/
+drwxr-xr-x  3 jiafq lcs       4096 Mar  9  2022 .keras/
+drwx------  4 jiafq lcs       4096 Apr 25  2022 .local/
+-rw-r--r--  1 jiafq lcs      45499 May 21 16:17 .maple_history
+drwx------  3 jiafq lcs       4096 Nov 26  2021 .nv/
+drwxr-----  3 jiafq lcs       4096 Nov 18  2021 .pki/
+-rw-r--r--  1 jiafq lcs        675 Oct 12  2021 .profile
+drwxr-xr-x 24 jiafq lcs       4096 Apr 30  2022 .pycharm_helpers/
+-rw-------  1 jiafq lcs      49637 May 19 13:20 .python_history
+drwxr-xr-x  3 jiafq lcs       4096 Feb 24 16:32 .subversion/
+drwxr-xr-x  2 jiafq lcs       4096 May 21 18:02 .vim/
+-rw-------  1 jiafq lcs      13726 May 22 18:48 .viminfo
+drwxr-xr-x  5 jiafq lcs       4096 May 23 12:07 .vscode-server/
+drwxr-xr-x  5 jiafq lcs       4096 Aug 12  2022 .vscode-server-insiders/
+-rw-r--r--  1 jiafq lcs        364 May 18 20:39 .wget-hsts
+-rw-r--r--  1 jiafq lcs   12530972 Nov  9  2022 22.06.zip
+-rw-r--r--  1 jiafq lcs  570853747 Dec 30 10:04 Anaconda3-2021.05-Linux-x86_64.sh
+drwxr-xr-x 13 jiafq lcs       4096 Apr 24 14:05 BLAN/
+drwxr-xr-x 12 jiafq lcs       4096 Nov  1  2022 BLAN_P/
+drwxr-xr-x 12 jiafq lcs       4096 Nov  1  2022 BLAN_a1024b7/
+drwxr-xr-x 12 jiafq lcs       4096 Nov  1  2022 BLAN_a1536b7/
+drwxr-xr-x 12 jiafq lcs       4096 Feb  1 00:57 BLAN_yices2/
+-rw-r--r--  1 jiafq lcs   34080850 Nov  6  2022 BLAN_z3.zip
+-rw-r--r--  1 jiafq lcs  156110377 Aug  6  2022 SAT_Split_100.zip
+-rw-r--r--  1 jiafq lcs  640040223 Oct 26  2022 Split_150.zip
+-rw-r--r--  1 jiafq lcs  119762373 Aug  6  2022 aaai.zip
+drwxr-xr-x  2 jiafq lcs       4096 Oct  7  2022 anaconda3/
+drwxr-xr-x  3 jiafq lcs       4096 Nov  9  2022 barcelogic/
+-rwxr-xr-x  1 jiafq lcs       2452 Oct 27  2022 count.py*
+-rw-r--r--  1 jiafq lcs  349184000 May  7  2022 data-P-5.tar
+-rw-r--r--  1 jiafq lcs   85370880 May  6  2022 data_P-4.tar
+drwxr-xr-x  2 jiafq lcs       4096 Nov 18  2022 generate_rand_dataset/
+-rw-r--r--  1 jiafq lcs       2701 May 13  2022 h_test.txt
+-rw-r--r--  1 jiafq lcs       1073 May 13  2022 heuris_test.mpl
+drwxr-xr-x  3 jiafq lcs       4096 May 15  2022 hybrid/
+drwxr-xr-x 13 jiafq lcs       4096 Aug 12  2022 ismt_comp_sat/
+drwxr-xr-x 13 jiafq lcs       4096 Aug 15  2022 ismt_comp_sat_16/
+drwxr-xr-x 13 jiafq lcs       4096 Aug 15  2022 ismt_comp_sat_16_exp/
+drwxr-xr-x 12 jiafq lcs       4096 Oct 18  2022 ismt_comp_sat_16_p_ga_dg_ab_cm_vote_start/
+drwxr-xr-x 12 jiafq lcs       4096 Oct 25  2022 ismt_comp_sat_16_p_ga_dg_ab_cm_vote_start_ref/
+-rw-r--r--  1 jiafq lcs   30604088 Oct 14  2022 ismt_comp_sat_16_p_ga_dg_ab_cm_vote_start_ref.zip
+drwxr-xr-x 12 jiafq lcs       4096 Oct 28  2022 ismt_comp_sat_16_p_ga_start/
+drwxr-xr-x 12 jiafq lcs       4096 Oct 14  2022 ismt_comp_sat_16_p_nopre/
+drwxr-xr-x 13 jiafq lcs       4096 Aug 15  2022 ismt_comp_sat_24/
+drwxr-xr-x 12 jiafq lcs       4096 Aug 12  2022 ismt_comp_sat_32/
+drwxr-xr-x 13 jiafq lcs       4096 Aug 15  2022 ismt_comp_sat_4/
+-rwxr-xr-x  1 jiafq lcs         92 May  2  2022 kill_mserver.sh*
+drwxr-xr-x 12 jiafq lcs       4096 Aug 15  2022 libpoly/
+drwxr-xr-x  2 jiafq lcs       4096 Feb 28 18:35 ls_lra/
+drwxr-x--x 13 jiafq lcs       4096 Jan 31 23:59 mathsat/
+lrwxrwxrwx  1 jiafq lcs         15 May  2  2022 panda1 -> /pub/data/jiafq/
+lrwxrwxrwx  1 jiafq lcs         16 Oct 12  2021 panda12 -> /pub/data/jiafq//
+lrwxrwxrwx  1 jiafq lcs         16 Jan 16  2022 panda14 -> /pub/data/jiafa/
+lrwxrwxrwx  1 jiafq lcs         15 May  2  2022 panda2 -> /pub/data/jiafq/
+lrwxrwxrwx  1 jiafq lcs         16 Nov 25  2021 panda3 -> /pub/data/jiafq//
+lrwxrwxrwx  1 jiafq lcs         16 Nov 25  2021 panda4 -> /pub/data/jiafq//
+lrwxrwxrwx  1 jiafq lcs         17 Nov  5  2021 panda5 -> /pub/data/vapour/
+lrwxrwxrwx  1 jiafq lcs         17 Nov  5  2021 panda6 -> /pub/data/vapour/
+lrwxrwxrwx  1 jiafq lcs         17 Nov  5  2021 panda8 -> /pub/data/vapour/
+-rwxr-xr-x  1 jiafq lcs       1020 Aug 10  2022 parallel_6_1.sh*
+-rwxr-xr-x  1 jiafq lcs        960 Aug 10  2022 parallel_6_2.sh*
+-rwxr-xr-x  1 jiafq lcs       1902 Aug 15  2022 parallel_best.sh*
+-rwxr-xr-x  1 jiafq lcs       5684 Aug 16  2022 parallel_one.sh*
+-rwxr-xr-x  1 jiafq lcs       8555 Aug 14  2022 parallel_unknown.sh*
+-rwx------  1 jiafq lcs        401 May 10  2022 run.sh*
+drwxr-xr-x  5 jiafq lcs       4096 May 16  2022 smt/
+drwxr-xr-x  4 jiafq lcs       4096 May 16  2022 smt_0/
+drwxr-xr-x  4 jiafq lcs       4096 May 16  2022 smt_1/
+drwxr-xr-x  4 jiafq lcs       4096 May 16  2022 smt_2/
+drwxr-xr-x  9 jiafq lcs       4096 Nov  9  2022 smtrat-22.06/
+drwxr-xr-x  3 jiafq lcs       4096 May 15  2022 test_svo_mpl/
+lrwxrwxrwx  1 jiafq lcs         16 Nov 24  2021 tiger2 -> /pub/data/jiafq//
+lrwxrwxrwx  1 jiafq lcs         15 Nov 22  2021 tiger4 -> /pub/data/jiafq/
+lrwxrwxrwx  1 jiafq lcs         16 Dec 12  2021 tiger5 -> /pub/data/jiafq//
+lrwxrwxrwx  1 jiafq lcs         15 Jan 15  2022 tiger6 -> /pub/data/jiafq/
+lrwxrwxrwx  1 jiafq lcs         16 Jan 15  2022 tiger7 -> /pub/data/jiafq//
+-rw-r--r--  1 jiafq lcs        298 Oct 26  2022 tmp.smt2
+-rw-r--r--  1 jiafq lcs       6605 Aug 13  2022 unknown_parallel.sh
+-rwxr-xr-x  1 jiafq lcs       6332 Jan 29 21:34 unsat_parallel_50.sh*
+-rwxr-xr-x  1 jiafq lcs       2812 Jan 31 23:27 unzip.sh*
